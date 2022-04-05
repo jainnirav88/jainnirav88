@@ -30,7 +30,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/nirav-jain-6172101a4"><img src="https://img.shields.io/badge/-Nirav%20Jain-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jainnirav88@gmail.com"><img src="https://img.shields.io/badge/-jainnirav88@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:jainnirav125@gmail.com"><img src="https://img.shields.io/badge/-jainnirav125@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <!--
