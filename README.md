@@ -4,7 +4,7 @@
 
 ## Coding Profiles
 
-[![Badge](https://cp-logo.vercel.app/codeforces/jainnirav88?logo=true)](https://www.codeforces.com/profile/jainnirav88)
+[![Badge](https://cp-logo.vercel.app/codeforces/jainnirav88?logo=true)](https://codeforces.com/profile/jainnirav88)
 [![Badge](https://cp-logo.vercel.app/codechef/jainnirav88?logo=true)](https://www.codechef.com/users/jainnirav88)
 [![Badge](https://cp-logo.vercel.app/leetcode/jainnirav88?logo=true)](https://www.leetcode.com/jainnirav88)
 
