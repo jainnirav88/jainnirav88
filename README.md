@@ -2,6 +2,8 @@
 
 **I am Nirav Jain 😃, a problem solver with code. Currently Software Engineer at Airtel Digital. Previously worked at Zeta as a Software Engineer Intern.**
 
+**Checkout my keep problem extension which will make tracking coding problems easier: [Keep Problems @ Chrome Web Store](https://chromewebstore.google.com/detail/keep-problems/bpcgbgiipbblkoajepkmlcdgafnhiamp)**
+
 ## Coding Profiles
 
 [![Badge](https://cp-logo.vercel.app/codeforces/jainnirav88?logo=true)](https://codeforces.com/profile/jainnirav88)
