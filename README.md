@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I am Nirav Jain 😃, a programming enthusiast.**
+**I am Nirav Jain 😃, a problem solver with code. Currently Software Engineer at Airtel Digital. Previously worked at Zeta as a Software Engineer Intern.**
 
 ## Coding Profiles
 
