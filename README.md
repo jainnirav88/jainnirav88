@@ -28,7 +28,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
-![MCP](https://img.shields.io/badge/-MCP-05122A?style=flat&logo=mcp&logoColor=008080)&nbsp;
+![MCP](https://img.shields.io/badge/-MCP-05122A?style=flat&logo=modelcontextprotocol&logoColor=#000000)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=#E10098)&nbsp;
 
 ## :link: &nbsp;Connect with me
 
