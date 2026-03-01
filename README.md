@@ -1,6 +1,6 @@
 # Hi there 👋
 
-**I am Nirav Jain 😃, a problem solver with code. Currently Software Engineer at Airtel Digital. Previously worked at Zeta as a Software Engineer Intern.**
+**I am Nirav Jain 😃, a problem solver with code. Currently Software Development Engineer 2 at Avalara. Previously worked at Airtel Digital as Software Engineer and Zeta as a Software Engineer Intern.**
 
 **Checkout my keep problem extension which will make tracking coding problems easier: [Keep Problems @ Chrome Web Store](https://chromewebstore.google.com/detail/keep-problems/bpcgbgiipbblkoajepkmlcdgafnhiamp)**
 
